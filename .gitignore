@@ -1,0 +1,8 @@
+*.pth.tar
+__pycache__/
+.vscode
+VoxCeleb
+wandb
+.venvc/
+.venv/
+.DS_Store
