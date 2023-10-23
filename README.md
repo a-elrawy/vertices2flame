@@ -1,5 +1,5 @@
 ## **Vertices to Flame**
-This repo contains a 3d vertices to flame parameters (pose and expression) model. It works as a flame inverter to extract back the parameters from the vertices
+This repo contains a 3d vertices to flame parameters (pose and expression) model. This model convert vertices to blend shapes, flame expression blend shapes and jaw rotation parameters. It works as a flame inverter to extract back the parameters from the vertices
 
 
 ## **Environment**
